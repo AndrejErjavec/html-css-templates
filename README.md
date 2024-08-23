@@ -1,1 +1,1 @@
-# html-css-templates
+# My templates for different components with HTML and CSS
